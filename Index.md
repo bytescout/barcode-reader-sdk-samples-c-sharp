@@ -1,0 +1,70 @@
+## Index of source code examples
+
+
+\Acquire From Scanner And Decode
+\Barcodes From PDF
+\Barcodes From TIFF
+\Batch Read From Files
+\Decode Australian Post Code
+\Decode Aztec
+\Decode Bookland
+\Decode Codabar
+\Decode Codablock F
+\Decode Code 128
+\Decode Code 16K
+\Decode Code 39
+\Decode Code 93
+\Decode Datamatrix
+\Decode Deutsche Post Identcode
+\Decode Deutsche Post Leitcode
+\Decode EAN-128
+\Decode EAN-13
+\Decode EAN-14
+\Decode EAN-2
+\Decode EAN-5
+\Decode EAN-8
+\Decode GS1 DataBar Expanded
+\Decode GS1 DataBar Expanded Stacked
+\Decode GS1 DataBar Limited
+\Decode GS1 DataBar Omnidirectional
+\Decode GS1 DataBar Stacked
+\Decode GS1 DataMatrix
+\Decode GS1-128
+\Decode Intelligent Mail
+\Decode Interleaved 2 of 5
+\Decode ISBN
+\Decode ITF-14
+\Decode JAN-13
+\Decode Macro PDF417
+\Decode MaxiCode
+\Decode MICR from Bank Check
+\Decode Numly
+\Decode Patch Code
+\Decode PDF417
+\Decode PZN
+\Decode QR Code
+\Decode Royal Mail
+\Decode Royal Mail KIX
+\Decode Swiss Post Parcel
+\Decode Truncated PDF417
+\Decode UPC-A
+\Decode UPC-E
+\Decode USPS Sack Label
+\Decode USPS Tray Label
+\Export Results to XML, CSV, TXT
+\General Example
+\GUI Example
+\Image Preprocessing Filters
+\Interrupt Processing
+\Parallel Decoding
+\Profiles
+\Read Checkboxes
+\Read From Live Video Cam
+\Read From Live Video Cam (WPF)
+\Read vCard from QR Code
+\Split Document By Found Barcode
+\WPF UI Example
+\_Web API
+\_Web API\Read Barcode From Uploaded File
+\_Web API\Read Barcode From URL
+\_Web API\Read Barcode From URL Asynchronously
