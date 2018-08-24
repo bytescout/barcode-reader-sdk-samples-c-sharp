@@ -1,5 +1,4 @@
-## Index of source code examples
-
+## Index of source code examples:
 
 \Acquire From Scanner And Decode
 \Barcodes From PDF
