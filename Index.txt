@@ -13,6 +13,10 @@
 \Decode Code 16K
 \Decode Code 39
 \Decode Code 93
+\Decode Damaged Code 128
+\Decode Damaged Code 39
+\Decode Damaged Datamatrix
+\Decode Damaged QR Code
 \Decode Datamatrix
 \Decode Deutsche Post Identcode
 \Decode Deutsche Post Leitcode
@@ -42,6 +46,7 @@
 \Decode PDF417
 \Decode PZN
 \Decode QR Code
+\Decode QR Code With JSON
 \Decode Royal Mail
 \Decode Royal Mail KIX
 \Decode Swiss Post Parcel
