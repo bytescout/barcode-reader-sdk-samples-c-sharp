@@ -3,6 +3,7 @@
 \Acquire From Scanner And Decode
 \Barcodes From PDF
 \Barcodes From TIFF
+\Batch Read Barcodes To CSV
 \Batch Read From Files
 \Decode Australian Post Code
 \Decode Aztec
@@ -69,6 +70,7 @@
 \Split Document By Found Barcode
 \WPF UI Example
 \_Web API
+\Batch Read Barcodes To CSV\BarcodeFiles
 \_Web API\Read Barcode From Uploaded File
 \_Web API\Read Barcode From URL
 \_Web API\Read Barcode From URL Asynchronously
