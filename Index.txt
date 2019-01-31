@@ -1,6 +1,6 @@
 ## Index of source code examples:
 
-\Acquire barcode From Scanner And Decode
+\Acquire Barcode From Scanner And Decode
 \Batch Read Barcodes To CSV
 \Batch Read From Files
 \Decode Australian Post Code
@@ -62,8 +62,8 @@
 \Parallel Barcode Decoding
 \Read barcode From Live Video Cam
 \Read barcodes From Live Video Cam (WPF)
-\read Barcodes From PDF
-\read Barcodes From TIFF
+\Read Barcodes From PDF
+\Read Barcodes From TIFF
 \Read Checkboxes
 \Read vCard from QR Code
 \Set Barcode Decoding Profiles
