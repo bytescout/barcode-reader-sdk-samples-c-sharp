@@ -41,6 +41,8 @@
 \Decode MaxiCode
 \Decode MICR from Bank Check
 \Decode Numly
+\Decode page by page from PDF
+\Decode page by page from TIFF
 \Decode Patch Code
 \Decode PDF417
 \Decode PZN
@@ -66,6 +68,7 @@
 \Read Barcodes From TIFF
 \Read Checkboxes
 \Read vCard from QR Code
+\Reduce CPU Usage
 \Set Barcode Decoding Profiles
 \Split PDF Document By Found Barcode
 \WPF UI Example for barcode reading
