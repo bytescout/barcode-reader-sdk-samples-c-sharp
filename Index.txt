@@ -41,7 +41,6 @@
 \Decode MaxiCode
 \Decode MICR from Bank Check
 \Decode Numly
-\Decode page by page from PDF
 \Decode page by page from TIFF
 \Decode Patch Code
 \Decode PDF417
@@ -56,6 +55,7 @@
 \Decode UPC-E
 \Decode USPS Sack Label
 \Decode USPS Tray Label
+\Decoding barcodes from PDF by pages
 \Export Results to XML, CSV, TXT
 \General Example reading barcodes
 \GUI Example for Barcode Reading
