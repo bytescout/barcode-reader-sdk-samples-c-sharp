@@ -60,6 +60,7 @@
 \General Example reading barcodes
 \GUI Example for Barcode Reading
 \Image Preprocessing Filters
+\Inspect Decoded Barcodes
 \Interrupt Barcode Decoding Processing
 \Parallel Barcode Decoding
 \Read barcode From Live Video Cam
