@@ -63,6 +63,9 @@
 \Inspect Decoded Barcodes
 \Interrupt Barcode Decoding Processing
 \Parallel Barcode Decoding
+\Read 50 Barcodes from picture
+\Read 50 datamatrix barcodes from picture
+\Read 50 QRCodes barcodes from picture
 \Read barcode From Live Video Cam
 \Read barcodes From Live Video Cam (WPF)
 \Read Barcodes From PDF
