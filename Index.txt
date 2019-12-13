@@ -57,6 +57,7 @@
 \Decode USPS Tray Label
 \Decoding barcodes from PDF by pages
 \Export Results to XML, CSV, TXT
+\Filters to downscale Image
 \General Example reading barcodes
 \GUI Example for Barcode Reading
 \Image Preprocessing Filters
