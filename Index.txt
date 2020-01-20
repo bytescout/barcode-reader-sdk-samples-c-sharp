@@ -37,6 +37,7 @@
 \Decode ISBN
 \Decode ITF-14
 \Decode JAN-13
+\Decode Macro PDF 417
 \Decode Macro PDF417
 \Decode MaxiCode
 \Decode MICR from Bank Check
