@@ -57,6 +57,7 @@
 \Decode USPS Sack Label
 \Decode USPS Tray Label
 \Decoding barcodes from PDF by pages
+\Display License Info
 \Download and Process file
 \Export Results to XML, CSV, TXT
 \Filters to downscale Image
