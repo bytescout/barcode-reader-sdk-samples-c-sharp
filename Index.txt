@@ -3,6 +3,7 @@
 \Acquire Barcode From Scanner And Decode
 \Batch Read Barcodes To CSV
 \Batch Read From Files
+\Decode AAMVA data from PDF417 barcode
 \Decode Australian Post Code
 \Decode Aztec
 \Decode Bookland
@@ -19,6 +20,7 @@
 \Decode Datamatrix
 \Decode Deutsche Post Identcode
 \Decode Deutsche Post Leitcode
+\Decode Driver License Information (PDF417)
 \Decode EAN-128
 \Decode EAN-13
 \Decode EAN-14
@@ -32,6 +34,7 @@
 \Decode GS1 DataBar Stacked
 \Decode GS1 DataMatrix
 \Decode GS1-128
+\Decode Identification Card Information (PDF417)
 \Decode Intelligent Mail
 \Decode Interleaved 2 of 5
 \Decode ISBN
